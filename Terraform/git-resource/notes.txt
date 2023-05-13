@@ -1,0 +1,19 @@
+terraform console
+var.age
+var.username
+var.city
+github_repository.Terraform-first-repo.html_url (for prinnitng output factors defined in tf state file)
+github_repository.Terraform-first-repo.ssh_clone_ur
+
+terraform refresh (to update any infra changes done from target into state file)
+
+terraform plan -var-file abc.tfvars (to use abc.tfvars file instead of terraform.tfvars file)
+
+output "repo-url" {
+  value = resource_type.resource_name_for_tf.desired_output
+}
+
+tf apply 
+tf output repo-url
+
+terraform fmt (formats the code indentation wise)

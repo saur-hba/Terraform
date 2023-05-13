@@ -1,0 +1,4 @@
+file "file_name" (shows info about any file )
+Terraform/aws_resources/.terraform/providers/registry.terraform.io/hashicorp/aws/4.66.1/linux_amd64$ (location)
+INPUT:- file terraform-provider-aws_v4.66.1_x5 
+OUTPUT:- terraform-provider-aws_v4.66.1_x5: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=ZFb6JnTlTr_Jg9bE6W4Q/ycyNTt4UaJI5UTOCNnFz/vcPzOM0U6NA1v1eFpgpm/McisGOzOHxxQQn6JaBCV, stripped
